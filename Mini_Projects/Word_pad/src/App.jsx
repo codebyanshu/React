@@ -33,7 +33,7 @@ function App() {
   };
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/React",
       element: (
         <>
           <Navbar darkMode={darkMode} toggleMode={toggleMode} />
